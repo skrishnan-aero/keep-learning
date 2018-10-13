@@ -49,3 +49,28 @@ e
 users/views.py,5\f\5fc54a09665485d90807a8e72925d27743a0db75
 S
 #users/templates/users/register.html,7\b\7b48416384df1833e5f6d747439a8eaac912e68d
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
+;
+runtime.txt,2\e\2ed4029984f4a6c70a541992efb31f76528bd80d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+L
+.idea/dictionaries/Sandy.xml,2\e\2ed296ce7f640fb0fe180a2127808ef718de363a
+O
+learning_log/templates/404.html,e\d\ed5f2b663cae41f47acb623fb7107da4720e8d83
+O
+learning_log/templates/500.html,1\4\142a685d4047fab913e67581a852e0d55d41fb9d
+V
+&learning_log/learning_log/static/.keep,3\c\3cdd03e4d4b39d20c9222123f2f006129ef4f619
+`
+0learning_log/learning_log/static/placeholder.txt,1\9\191bd9bd05d7fe47c9284cf3a938f1f8fb3c61a8
+7
+LICENSE,0\3\0398ccd0f49298b10a3d76a47800d2ebecd49859
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+;
+_config.yml,c\d\cd089ae45ce870c45e434019e8f1ed4f066cd425
+H
+learning_log/__init__.py,e\5\e511c110cf828a8aa85bd869f04ea648b518f321
